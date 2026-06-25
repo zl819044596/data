@@ -35,19 +35,25 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // 博客文章列表（手动维护，避免构建时文件系统访问问题）
   const blogPosts = [
     "ai-fitness-coach-vs-personal-trainer",
+    "ai-workout-planner",
     "beginner-gym-plan",
+    "beginner-workout-routine",
     "bench-press-wrist-pain",
     "best-ai-fitness-apps-2026",
     "build-muscle-fast",
     "home-vs-gym",
     "home-vs-gym-workout",
+    "how-many-calories-should-i-eat",
+    "how-much-protein-per-day",
     "how-to-build-muscle",
     "how-to-lose-belly-fat",
     "how-to-use-ai-workout-generator",
     "intermittent-fasting-workout",
     "meal-prep-muscle",
     "protein-intake-calculator-guide",
+    "six-pack-workout",
     "what-is-tdee-and-how-to-calculate",
+    "women-workout-plan",
   ];
 
   const pages = [
